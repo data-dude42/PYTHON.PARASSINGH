@@ -1,6 +1,6 @@
 ## Welcome to My Python Playground!
 
-This repository is your one-stop shop for exploring the wonders of Python programming! It's a treasure trove of diverse applications and visualizations that showcase Python's power and versatility.
+This repository is your one-stop shop for exploring the wonders of Python programming! It's a treasure trove of diverse applications and visualizations that showcase Python's power and versatility
 
 **Here's what awaits you:**
 
